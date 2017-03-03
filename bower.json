@@ -1,0 +1,25 @@
+{
+  "name": "open",
+  "description": "",
+  "main": "",
+  "authors": [
+    "jerry"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "animate.css": "^3.5.2",
+    "PACE": "pace#^1.0.2",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3",
+    "jquery": "^1.8.3",
+    "artTemplate": "art-template#^3.0.1"
+  }
+}
