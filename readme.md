@@ -1,7 +1,18 @@
+
+@Author HOUZHENYU
+
+系统按装
+bower install && npm install 
+
+系统启动&发布
+grunt 启动
+
+grunt release 发布上线时用
+
 系统架构
-less				css样式框架		
-art-template		处理html模板工具		
-iTemplates			打包生成的模板对象
+less					
+art-template		
+iTemplates			将html模板压缩打包生成的模板对象，使用方法iTemplates[tplName]
 
 系统变量 关键字（开发时不要与其命名冲突）：
 template
